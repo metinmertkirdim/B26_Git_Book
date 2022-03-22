@@ -1,0 +1,2 @@
+This is Tuesday.
+We are keep practicing Git, how to commit, change the commits and push.
